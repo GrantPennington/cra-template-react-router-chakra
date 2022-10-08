@@ -1,5 +1,4 @@
 [![npm version](https://badge.fury.io/js/cra-template-react-router-chakra.svg)](https://badge.fury.io/js/cra-template-react-router-chakra)
-[![Action status](https://github.com/GrantPennington/cra-template-react-router-chakra/workflows/CI/badge.svg?branch=master)](https://github.com/GrantPennington/cra-template-react-router-chakra/actions)
 ![npm downloads](https://img.shields.io/npm/dm/cra-template-react-router-chakra)
 
 # A quick start React Router + Chakra UI Create React App template
