@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+[![npm version](https://badge.fury.io/js/cra-template-react-router-chakra.svg)](https://badge.fury.io/js/cra-template-react-router-chakra)
+[![Action status](https://github.com/GrantPennington/cra-template-react-router-chakra/workflows/CI/badge.svg?branch=master)](https://github.com/GrantPennington/cra-template-react-router-chakra/actions)
+![npm downloads](https://img.shields.io/npm/dm/cra-template-react-router-chakra)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# A quick start React Router + Chakra UI Create React App template
+
+A quick start [Create React App](https://github.com/facebook/create-react-app) (CRA) _template_ with **React Router** and **Chakra UI**
+
+## Usage
+
+```bash
+npx create-react-app your-project-name --template react-router-chakra
+```
+
+Be sure to include the `--template` parameter to tell CRA we want to use a template.
+
+## Usage of basic CRA with no template
+```bash
+npx create-react-app your-project-name
+```
 
 ## Available Scripts
 
