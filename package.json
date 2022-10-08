@@ -1,8 +1,7 @@
 {
-  "name": "cra-template-custom-template-cra",
-  "type": "module",
+  "name": "cra-template-react-router-chakra",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": "Grant Pennington <grant_pennington8@outlook.com",
   "engines": {
     "node": ">=10"
@@ -24,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/GrantPennington/custom-cra-template.git",
+    "url": "https://github.com/GrantPennington/cra-template-react-router-chakra.git",
     "directory": "/"
   },
   "dependencies": {
@@ -45,10 +44,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "clean-files": "rm -r -f ./template/public ./template/src",
-    "copy-files": "cp -R ./src/. template/src && cp -R ./public/. template/public",
-    "prepublishOnly": "npm clean-files && npm copy-files"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
